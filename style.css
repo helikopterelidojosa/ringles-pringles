@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+
+container{
+    position: relative;
+}
+
+button{
+    width: 160px;
+    font-size: 20px;
+    position: absolute;
+    top:18px;
+    left: 16px;
+    background-color: rgb(0, 255, 255, 0.3);
+}
+
+a{
+    position: relative;
+}
+
+p{
+    position: absolute;
+    top:20%;
+    left: 10%;
+}
